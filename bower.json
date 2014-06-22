@@ -1,0 +1,23 @@
+{
+  "name": "WanderGL",
+  "version": "0.1.0",
+  "authors": [
+    "Maurizio De Magnis <maurizio.demagnis@gmail.com>"
+  ],
+  "description": "This is me wandering in WebGL land.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "threejs": "*"
+  }
+}
